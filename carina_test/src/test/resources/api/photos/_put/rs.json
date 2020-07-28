@@ -1,0 +1,5 @@
+{
+"ID": 1,
+<#if IDBook??>"IDBook": ${IDBook},</#if>
+<#if Url??>"Url": "${Url}"</#if>
+}

@@ -1,0 +1,8 @@
+[
+  {
+    <#if ID??>"ID": ${ID},</#if>
+    <#if IDBook??>"IDBook": ${IDBook},</#if>
+    <#if FirstName??>"FirstName":, "${FirstName}",</#if>
+    <#if LastName??>"LastName":, "${LastName}",</#if>
+  }
+]

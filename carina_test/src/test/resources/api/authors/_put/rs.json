@@ -1,0 +1,6 @@
+{
+"ID": 1,
+<#if IDBook??>"IDBook": ${IDBook},</#if>
+<#if FirstName??>"FirstName": "${FirstName}",</#if>
+<#if LastName??>"LastName": "${LastName}",</#if>
+}

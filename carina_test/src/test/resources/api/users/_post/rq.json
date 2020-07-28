@@ -1,0 +1,7 @@
+[
+  {
+    <#if ID??>"ID": ${ID},</#if>
+    <#if UserName??>"UserName":, "${UserName}",</#if>
+    <#if Password??>"Password":, "${Password}",</#if>
+  }
+]

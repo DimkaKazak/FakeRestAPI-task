@@ -1,0 +1,10 @@
+[
+  {
+    <#if ID??>"ID": ${ID},</#if>
+    <#if Title??>"Title": "${Title}",</#if>
+    <#if Description??>"Description": "${Description}",</#if>
+    <#if PageCount??>"PageCount": ${PageCount},</#if>
+    <#if Excerpt??>"Excerpt": "${Excerpt}",</#if>
+    "PublishDate": "2020-07-28T14:28:18.403Z"
+  }
+]

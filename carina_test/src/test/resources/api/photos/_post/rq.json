@@ -1,0 +1,7 @@
+[
+  {
+    <#if ID??>"ID": ${ID},</#if>
+    <#if IDBook??>"IDBook": ${IDBook},</#if>
+    <#if Url??>"Url": "${Url}"</#if>
+  }
+]

@@ -1,0 +1,8 @@
+{
+"ID": 1,
+<#if Title??>"Title": "${Title}",</#if>
+<#if Description??>"Description": "${Description}",</#if>
+<#if PageCount??>"PageCount": ${PageCount},</#if>
+<#if Excerpt??>"Excerpt": "${Excerpt}",</#if>
+"PublishDate": "skip"
+}
